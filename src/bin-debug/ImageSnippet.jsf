@@ -1,0 +1,18 @@
+var sel = fw.selection[0];
+var opt = sel.exportOptions;
+var ext;
+if(opt == undefined){
+	ext = fw.getDocumentDOM().exportOptions.exportFormat;
+}else{
+	ext = sel.exportOptions.exportFormat;
+}
+var name = sel.baseName;
+var selX = sel.left;
+var selY = sel.top;
+var width = sel.width;
+var height = sel.height;
+ext = ext.toLowerCase();
+var info = name + '.' + ext + ',' + width + ',' + height + ',' + selX + ',' + selY;
+info;
+
+
