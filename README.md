@@ -12,11 +12,15 @@ It generates snippet code in FW from selected slice info.
 
 Assume there is a slice such as this.
 
-![screen shot](https://github.com/KinkumaDesign/ImageSnippet/blob/master/screenshot.gif?raw=true)
+![screen shot](https://github.com/KinkumaDesign/ImageSnippet/blob/master/images/image_snippet1.png)
 
 Select the slice. You have to select only one slice. Because ImageSnippet can't handle multiple slices.
 
-Push insert button in command panel. Then snippet which include slice's property is exported in snippet area.
+Push insert button in command panel. 
+
+Then snippet which include slice's property is exported in snippet area.
+
+![screen shot](https://github.com/KinkumaDesign/ImageSnippet/raw/master/images/screenshot.gif)
 
 The snippet is formatted text.
 The format is written in format area.
