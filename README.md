@@ -27,9 +27,8 @@ The format is written in format area.
 
 Formatted text this time is this.
 
----
-<img width="%w" height="%h" src="images/%p" alt="">
----
+> <img width="%w" height="%h" src="images/%p" alt="">
+
 
 There are strings, such as %w, %h, and %p.
 These are converted to slice's name, width, and height.
@@ -51,21 +50,18 @@ You can write six format text which is include each tab.
 Assume you write css file.
 It is good for you that writing format such as..
 
----
-width:%wpx;
-height:%hpx;
-left:%xpx;
-top:%ypx;
----
+> width:%wpx;
+> height:%hpx;
+> left:%xpx;
+> top:%ypx;
 
 Then the generated code is this.
 
----
-width:99px;
-height:95px;
-left:47px;
-top:60px;
----
+> width:99px;
+> height:95px;
+> left:47px;
+> top:60px;
+
 
 It is also convenience to push clipboard button to send snippet code to OS's clipboard.
 
