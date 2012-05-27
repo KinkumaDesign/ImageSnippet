@@ -77,8 +77,8 @@ It is also convenience to push clipboard button to send snippet code to OS's cli
 2. Copy it to the application directory.
 
 For example CS5 in mac
-/Applications/Adobe Fireworks CS5.1/Configuration/Command Panels/KinkumaUtility/ImageSnippet.swf
-/Applications/Adobe Fireworks CS5.1/Configuration/Command Panels/KinkumaUtility/jsf/ImageSnippet.jsf
+    /Applications/Adobe Fireworks CS5.1/Configuration/Command Panels/KinkumaUtility/ImageSnippet.swf
+    /Applications/Adobe Fireworks CS5.1/Configuration/Command Panels/KinkumaUtility/jsf/ImageSnippet.jsf
 
 3. Relaunch Fireworks.
 
